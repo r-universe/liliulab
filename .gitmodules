@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "jScore"]
+	path = jScore
+	url = https://github.com/liliulab/jscore
+	shallow = true
+	registered = true
